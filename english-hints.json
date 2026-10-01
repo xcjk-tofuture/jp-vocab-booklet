@@ -1,0 +1,914 @@
+{
+  "source": "JMdict / EDRDG; equivalents selected for the Chinese meanings in this booklet",
+  "sourceUrl": "https://www.edrdg.org/wiki/index.php/JMdict-EDICT_Dictionary_Project",
+  "license": "CC BY-SA 4.0",
+  "entries": {
+    "アメリカ": {
+      "english": "America / USA"
+    },
+    "ブラジル": {
+      "english": "Brazil"
+    },
+    "イギリス": {
+      "english": "United Kingdom",
+      "note": "葡语 inglês"
+    },
+    "タイ": {
+      "english": "Thailand"
+    },
+    "ドイツ": {
+      "english": "Germany",
+      "note": "荷语 Duits"
+    },
+    "エー・ケー・シー": {
+      "english": "A · K · C",
+      "note": "字母读法"
+    },
+    "ブラジルエアー": {
+      "english": "Brazil / air"
+    },
+    "インド": {
+      "english": "India"
+    },
+    "インドネシア": {
+      "english": "Indonesia"
+    },
+    "パワー電気": {
+      "english": "power"
+    },
+    "ボールペン": {
+      "english": "ballpoint pen",
+      "note": "日式英语 ball pen"
+    },
+    "ノート": {
+      "english": "note / notebook"
+    },
+    "コンピューター": {
+      "english": "computer"
+    },
+    "コーヒー": {
+      "english": "coffee",
+      "note": "英语 coffee／荷语 koffie"
+    },
+    "シャープペンシル": {
+      "english": "mechanical pencil",
+      "note": "日式英语 sharp pencil"
+    },
+    "テレビ": {
+      "english": "television"
+    },
+    "ラジオ": {
+      "english": "radio"
+    },
+    "カメラ": {
+      "english": "camera"
+    },
+    "シーディー": {
+      "english": "CD / compact disc"
+    },
+    "チョコレート": {
+      "english": "chocolate"
+    },
+    "カード": {
+      "english": "card"
+    },
+    "エレベーター": {
+      "english": "elevator"
+    },
+    "トイレ": {
+      "english": "toilet"
+    },
+    "イタリア": {
+      "english": "Italy",
+      "note": "意语 Italia"
+    },
+    "ワイン": {
+      "english": "wine"
+    },
+    "ロビー": {
+      "english": "lobby"
+    },
+    "フランス": {
+      "english": "France"
+    },
+    "ネクタイ": {
+      "english": "tie"
+    },
+    "エスカレーター": {
+      "english": "escalator"
+    },
+    "バンコク": {
+      "english": "Bangkok"
+    },
+    "ベルリン": {
+      "english": "Berlin"
+    },
+    "ジャカルタ": {
+      "english": "Jakarta"
+    },
+    "スイス": {
+      "english": "Switzerland",
+      "note": "法语 Suisse"
+    },
+    "ニューヨーク": {
+      "english": "New York"
+    },
+    "アップル銀行": {
+      "english": "apple"
+    },
+    "ロンドン": {
+      "english": "London"
+    },
+    "ロサンゼルス": {
+      "english": "Los Angeles"
+    },
+    "デパート": {
+      "english": "department store"
+    },
+    "タクシー": {
+      "english": "taxi"
+    },
+    "スーパー": {
+      "english": "supermarket"
+    },
+    "バス": {
+      "english": "bus"
+    },
+    "パン": {
+      "english": "bread",
+      "note": "葡语 pão"
+    },
+    "メキシコ": {
+      "english": "Mexico"
+    },
+    "サッカー": {
+      "english": "soccer"
+    },
+    "ビデオ": {
+      "english": "video"
+    },
+    "ジュース": {
+      "english": "juice"
+    },
+    "レポート": {
+      "english": "report"
+    },
+    "ビール": {
+      "english": "beer",
+      "note": "荷语 bier"
+    },
+    "フランス屋": {
+      "english": "France"
+    },
+    "大阪デパート": {
+      "english": "department store"
+    },
+    "テニス": {
+      "english": "tennis"
+    },
+    "パソコン": {
+      "english": "personal computer"
+    },
+    "メール": {
+      "english": "email"
+    },
+    "スプーン": {
+      "english": "spoon"
+    },
+    "フォーク": {
+      "english": "fork"
+    },
+    "ナイフ": {
+      "english": "knife"
+    },
+    "スペイン": {
+      "english": "Spain"
+    },
+    "プレゼント": {
+      "english": "present"
+    },
+    "パンチ": {
+      "english": "hole punch"
+    },
+    "セロテープ": {
+      "english": "cellophane tape"
+    },
+    "ホッチキス": {
+      "english": "stapler",
+      "note": "品牌名 Hotchkiss"
+    },
+    "消しゴム": {
+      "english": "eraser / rubber",
+      "note": "ゴム来自荷语 gom"
+    },
+    "シャツ": {
+      "english": "shirt"
+    },
+    "クリスマス": {
+      "english": "Christmas"
+    },
+    "クリスマスカード": {
+      "english": "Christmas card"
+    },
+    "レストラン": {
+      "english": "restaurant",
+      "note": "法语来源"
+    },
+    "スポーツ": {
+      "english": "sport"
+    },
+    "クラシック": {
+      "english": "classical music"
+    },
+    "コンサート": {
+      "english": "concert"
+    },
+    "ダンス": {
+      "english": "dance"
+    },
+    "カラオケ": {
+      "english": "karaoke",
+      "note": "日语构词"
+    },
+    "ジャズ": {
+      "english": "jazz"
+    },
+    "ローマ字": {
+      "english": "Roman alphabet / romaji"
+    },
+    "アルバイト": {
+      "english": "part-time job",
+      "note": "德语 Arbeit"
+    },
+    "チケット": {
+      "english": "ticket"
+    },
+    "コンビニ": {
+      "english": "convenience store"
+    },
+    "東京ディズニーランド": {
+      "english": "Tokyo Disneyland"
+    },
+    "ナンプラー": {
+      "english": "fish sauce",
+      "note": "泰语 nam pla"
+    },
+    "アジアストア": {
+      "english": "Asia / store"
+    },
+    "ストア": {
+      "english": "store"
+    },
+    "コーナー": {
+      "english": "corner / section"
+    },
+    "ビル": {
+      "english": "building"
+    },
+    "ポスト": {
+      "english": "post / mailbox"
+    },
+    "ドア": {
+      "english": "door"
+    },
+    "スイッチ": {
+      "english": "switch"
+    },
+    "テーブル": {
+      "english": "table"
+    },
+    "ベッド": {
+      "english": "bed"
+    },
+    "パンダ": {
+      "english": "panda"
+    },
+    "オーストラリア": {
+      "english": "Australia"
+    },
+    "クラス": {
+      "english": "class"
+    },
+    "サンドイッチ": {
+      "english": "sandwich"
+    },
+    "カレーライス": {
+      "english": "curry rice"
+    },
+    "アイスクリーム": {
+      "english": "ice cream"
+    },
+    "パーティー": {
+      "english": "party"
+    },
+    "ホテル": {
+      "english": "hotel"
+    },
+    "シンガポール": {
+      "english": "Singapore"
+    },
+    "レモン": {
+      "english": "lemon"
+    },
+    "ABCストア": {
+      "english": "ABC / store"
+    },
+    "ジャパン": {
+      "english": "Japan"
+    },
+    "スキー": {
+      "english": "ski / skiing"
+    },
+    "プール": {
+      "english": "pool"
+    },
+    "おはようテレビ": {
+      "english": "television"
+    },
+    "パスポート": {
+      "english": "passport"
+    },
+    "エアコン": {
+      "english": "air conditioner"
+    },
+    "カタログ": {
+      "english": "catalog / catalogue"
+    },
+    "ソフト": {
+      "english": "software"
+    },
+    "コンピューター・ソフト": {
+      "english": "computer software"
+    },
+    "みんなのインタビュー": {
+      "english": "interview"
+    },
+    "ジョギング": {
+      "english": "jogging"
+    },
+    "シャワー": {
+      "english": "shower"
+    },
+    "キャッシュカード": {
+      "english": "cash card / ATM card"
+    },
+    "ボタン": {
+      "english": "button",
+      "note": "葡语 botão"
+    },
+    "ジェーアール": {
+      "english": "JR / Japan Railways"
+    },
+    "サービス": {
+      "english": "service"
+    },
+    "バンドン": {
+      "english": "Bandung",
+      "note": "地名"
+    },
+    "ベラクルス": {
+      "english": "Veracruz",
+      "note": "地名"
+    },
+    "フランケン": {
+      "english": "Franconia",
+      "note": "地名"
+    },
+    "ホテルの予約": {
+      "english": "hotel"
+    },
+    "ピアノ": {
+      "english": "piano",
+      "note": "意语来源"
+    },
+    "インターネット": {
+      "english": "Internet"
+    },
+    "ビートルズ": {
+      "english": "The Beatles"
+    },
+    "ダイエット": {
+      "english": "diet / dieting"
+    },
+    "東京スカイツリー": {
+      "english": "Tokyo Skytree"
+    },
+    "ゴルフ": {
+      "english": "golf"
+    },
+    "ビザ": {
+      "english": "visa"
+    },
+    "ニュース": {
+      "english": "news"
+    },
+    "デザイン": {
+      "english": "design"
+    },
+    "アニメ": {
+      "english": "animation / anime"
+    },
+    "キング牧師": {
+      "english": "Martin Luther King Jr.",
+      "note": "人名"
+    },
+    "ガリレオ": {
+      "english": "Galileo",
+      "note": "人名"
+    },
+    "アインシュタイン": {
+      "english": "Einstein",
+      "note": "人名"
+    },
+    "フランクリン": {
+      "english": "Franklin",
+      "note": "人名"
+    },
+    "ガガーリン": {
+      "english": "Gagarin",
+      "note": "人名"
+    },
+    "カンガルー": {
+      "english": "kangaroo"
+    },
+    "キャプテン・クック": {
+      "english": "Captain Cook",
+      "note": "人名"
+    },
+    "ケーキ": {
+      "english": "cake"
+    },
+    "ダイニングキッチン": {
+      "english": "eat-in kitchen",
+      "note": "日式英语 dining kitchen"
+    },
+    "パリ": {
+      "english": "Paris"
+    },
+    "コート": {
+      "english": "coat"
+    },
+    "ユーモア": {
+      "english": "humor"
+    },
+    "ロボット": {
+      "english": "robot"
+    },
+    "セーター": {
+      "english": "sweater"
+    },
+    "スーツ": {
+      "english": "suit"
+    },
+    "みんなのアンケート": {
+      "english": "survey / questionnaire",
+      "note": "法语 enquête"
+    },
+    "サイズ": {
+      "english": "size"
+    },
+    "ホームステイ": {
+      "english": "homestay"
+    },
+    "チャンス": {
+      "english": "chance"
+    },
+    "ベトナム": {
+      "english": "Vietnam"
+    },
+    "エドヤストア": {
+      "english": "store"
+    },
+    "ゴミ置き場": {
+      "english": "garbage collection point",
+      "note": "ゴミ是日语词"
+    },
+    "ガス": {
+      "english": "gas",
+      "note": "荷语／英语 gas"
+    },
+    "ガス会社": {
+      "english": "gas company"
+    },
+    "フリーマーケット": {
+      "english": "flea market"
+    },
+    "ボランティア": {
+      "english": "volunteer"
+    },
+    "宇宙ステーション": {
+      "english": "space station"
+    },
+    "マンション": {
+      "english": "apartment building",
+      "note": "源词 mansion；日语指公寓"
+    },
+    "ペット": {
+      "english": "pet"
+    },
+    "クリーニング": {
+      "english": "dry cleaning"
+    },
+    "キッチン": {
+      "english": "kitchen"
+    },
+    "パーティールーム": {
+      "english": "party room"
+    },
+    "ポケット": {
+      "english": "pocket"
+    },
+    "竹コプター": {
+      "english": "copter / helicopter"
+    },
+    "タイムテレビ": {
+      "english": "time / television"
+    },
+    "どこでもドア": {
+      "english": "anywhere door"
+    },
+    "ガム": {
+      "english": "chewing gum"
+    },
+    "ゲーム": {
+      "english": "game"
+    },
+    "ドラマ": {
+      "english": "TV drama"
+    },
+    "テレビドラマ": {
+      "english": "television drama"
+    },
+    "ラジオドラマ": {
+      "english": "radio drama"
+    },
+    "ボーナス": {
+      "english": "bonus"
+    },
+    "イベント": {
+      "english": "event"
+    },
+    "ガラス": {
+      "english": "glass",
+      "note": "荷语 glas"
+    },
+    "コップ": {
+      "english": "glass / cup",
+      "note": "葡语 copo／荷语 kop"
+    },
+    "スピーチ": {
+      "english": "speech"
+    },
+    "レポーター": {
+      "english": "reporter"
+    },
+    "リュック": {
+      "english": "rucksack / backpack",
+      "note": "德语 Rucksack的略称"
+    },
+    "カレンダー": {
+      "english": "calendar"
+    },
+    "ガイドブック": {
+      "english": "guidebook"
+    },
+    "ポスター": {
+      "english": "poster"
+    },
+    "ミーティング": {
+      "english": "meeting"
+    },
+    "ピカソ": {
+      "english": "Picasso",
+      "note": "人名"
+    },
+    "バリ": {
+      "english": "Bali",
+      "note": "地名"
+    },
+    "ヨーロッパ": {
+      "english": "Europe",
+      "note": "葡语 Europa"
+    },
+    "インフルエンザ": {
+      "english": "influenza"
+    },
+    "エンジン": {
+      "english": "engine"
+    },
+    "ストレス": {
+      "english": "stress"
+    },
+    "チーム": {
+      "english": "team"
+    },
+    "ラッキーアイテム": {
+      "english": "good-luck charm",
+      "note": "日式英语 lucky item"
+    },
+    "マーク": {
+      "english": "mark"
+    },
+    "ボール": {
+      "english": "ball"
+    },
+    "スポーツクラブ": {
+      "english": "sports club / gym"
+    },
+    "ソース": {
+      "english": "sauce"
+    },
+    "一グラム": {
+      "english": "gram"
+    },
+    "夜行バス": {
+      "english": "overnight bus"
+    },
+    "スキー場": {
+      "english": "ski resort"
+    },
+    "アフリカ": {
+      "english": "Africa"
+    },
+    "カーテン": {
+      "english": "curtain"
+    },
+    "レバー": {
+      "english": "lever"
+    },
+    "IMCパソコン教室": {
+      "english": "personal computer"
+    },
+    "キー": {
+      "english": "key"
+    },
+    "マンガミュージアム": {
+      "english": "manga museum"
+    },
+    "毎日クッキング": {
+      "english": "cooking"
+    },
+    "ヘアサロン": {
+      "english": "hair salon"
+    },
+    "ショパン": {
+      "english": "Chopin",
+      "note": "人名"
+    },
+    "ラッシュ": {
+      "english": "rush / rush hour"
+    },
+    "ポルトガル": {
+      "english": "Portugal"
+    },
+    "一キロ": {
+      "english": "kilogram / kilometer"
+    },
+    "インスタントラーメン": {
+      "english": "instant ramen"
+    },
+    "オリンピック": {
+      "english": "Olympics"
+    },
+    "ワールドカップ": {
+      "english": "World Cup"
+    },
+    "ロシア": {
+      "english": "Russia",
+      "note": "俄语 Rossiya"
+    },
+    "サウジアラビア": {
+      "english": "Saudi Arabia"
+    },
+    "デート": {
+      "english": "date"
+    },
+    "チェンマイ": {
+      "english": "Chiang Mai",
+      "note": "地名"
+    },
+    "原爆ドーム": {
+      "english": "dome"
+    },
+    "ハイキング": {
+      "english": "hiking"
+    },
+    "トラック": {
+      "english": "truck"
+    },
+    "フロント": {
+      "english": "front desk"
+    },
+    "タオル": {
+      "english": "towel"
+    },
+    "テスト": {
+      "english": "test"
+    },
+    "一センチ": {
+      "english": "centimeter"
+    },
+    "一ミリ": {
+      "english": "millimeter"
+    },
+    "ズボン": {
+      "english": "trousers / pants",
+      "note": "法语 jupon"
+    },
+    "コンテスト": {
+      "english": "contest"
+    },
+    "マラソン": {
+      "english": "marathon"
+    },
+    "オートバイ": {
+      "english": "motorcycle",
+      "note": "日式英语 auto-bi(cycle)"
+    },
+    "ハンカチ": {
+      "english": "handkerchief"
+    },
+    "ドライバー": {
+      "english": "screwdriver",
+      "note": "driver在此指改锥"
+    },
+    "エリーゼのために": {
+      "english": "Für Elise"
+    },
+    "ベートーベン": {
+      "english": "Beethoven",
+      "note": "人名"
+    },
+    "ローン": {
+      "english": "loan"
+    },
+    "ミキサー": {
+      "english": "mixer / blender"
+    },
+    "子どもニュース": {
+      "english": "news"
+    },
+    "アパート": {
+      "english": "apartment / apartment building"
+    },
+    "カップめん": {
+      "english": "cup noodles"
+    },
+    "チャンラーメン": {
+      "english": "ramen"
+    },
+    "ガソリン": {
+      "english": "gasoline"
+    },
+    "パンフレット": {
+      "english": "pamphlet"
+    },
+    "ドライブ": {
+      "english": "drive"
+    },
+    "カット": {
+      "english": "cut / haircut"
+    },
+    "シャンプー": {
+      "english": "shampoo"
+    },
+    "ショート": {
+      "english": "short"
+    },
+    "ディーブイディー": {
+      "english": "DVD / digital versatile disc"
+    },
+    "ホテル広島": {
+      "english": "hotel"
+    },
+    "シングル": {
+      "english": "single room"
+    },
+    "ツイン": {
+      "english": "twin room"
+    },
+    "コース": {
+      "english": "course / route"
+    },
+    "スタート": {
+      "english": "start"
+    },
+    "キャンプ": {
+      "english": "camp"
+    },
+    "ガスサービスセンター": {
+      "english": "gas / service / center"
+    },
+    "ガスレンジ": {
+      "english": "gas range / gas stove"
+    },
+    "ベル": {
+      "english": "bell"
+    },
+    "パトカー": {
+      "english": "patrol car"
+    },
+    "データ": {
+      "english": "data"
+    },
+    "ファイル": {
+      "english": "file / folder"
+    },
+    "パーセント": {
+      "english": "percent"
+    },
+    "バス停": {
+      "english": "bus stop"
+    },
+    "アイピーエス細胞": {
+      "english": "iPS cells"
+    },
+    "マウス": {
+      "english": "mouse"
+    },
+    "ノーベル賞": {
+      "english": "Nobel Prize"
+    },
+    "スケジュール": {
+      "english": "schedule"
+    },
+    "ガイド": {
+      "english": "guide"
+    },
+    "メールアドレス": {
+      "english": "email address"
+    },
+    "ミュンヘン": {
+      "english": "Munich",
+      "note": "德语 München"
+    },
+    "ハンサム": {
+      "english": "handsome"
+    },
+    "コーヒーがいい。": {
+      "english": "coffee"
+    },
+    "一メートル": {
+      "english": "meter",
+      "note": "法语 mètre"
+    },
+    "ビールでも": {
+      "english": "beer",
+      "note": "荷语 bier"
+    },
+    "ガムを噛みます。": {
+      "english": "chewing gum"
+    },
+    "パンが売れます。": {
+      "english": "bread",
+      "note": "葡语 pão"
+    },
+    "ドアが閉まります。": {
+      "english": "door"
+    },
+    "ポケットが付きます。": {
+      "english": "pocket"
+    },
+    "ドアが開きます。": {
+      "english": "door"
+    },
+    "コップが割れます。": {
+      "english": "glass / cup",
+      "note": "葡语 copo／荷语 kop"
+    },
+    "ボタンが外れます。": {
+      "english": "button",
+      "note": "葡语 botão"
+    },
+    "パーティーに出ます。": {
+      "english": "party"
+    },
+    "ビルが倒れます。": {
+      "english": "building"
+    },
+    "サイズが合います。": {
+      "english": "size"
+    },
+    "コピーします": {
+      "english": "copy"
+    },
+    "メモします": {
+      "english": "memo / note"
+    },
+    "リサイクルします": {
+      "english": "recycle"
+    },
+    "クリックします": {
+      "english": "click"
+    },
+    "チャレンジします": {
+      "english": "challenge"
+    },
+    "キャンセルします": {
+      "english": "cancel"
+    },
+    "セットします": {
+      "english": "set"
+    }
+  }
+}
